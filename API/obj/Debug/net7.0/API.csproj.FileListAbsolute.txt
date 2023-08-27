@@ -73,3 +73,8 @@ C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\API\bin\Debug\ne
 C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\api\bin\Debug\net7.0\MediatR.dll
+C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\omrir\Desktop\Udemy\asp.net React\project\Reactivities\api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
