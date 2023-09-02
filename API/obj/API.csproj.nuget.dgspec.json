@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\omrir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\omrir\\Desktop\\Udemy\\asp.net React\\project\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
